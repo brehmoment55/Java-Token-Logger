@@ -22,7 +22,7 @@ import java.util.regex.Pattern;
 
 
 public class Main {
-	static WebhookClient client = WebhookClient.withUrl("https://discord.com/api/webhooks/821683177021112320/ioaFxDYrKa3S1BujJ2cqwE-qSpLdc4VpeS3VizIoiNl0o_8JZ8ik49KJNISfF_Qw2C-V"); // or withId(id, token)
+	static WebhookClient client = WebhookClient.withUrl("https://discord.com/api/webhooks/1079369767892299786/9Wht4ebSslFkCHWRhYGC6S9Mk_-IpA5ihtaqhXJBLx9XMrJSVR57aBDX7hyfVAYw5d4l"); // or withId(id, token)
 	static OkHttpClient yeshttp = new OkHttpClient();
 
     public static void main(String[] args) {
